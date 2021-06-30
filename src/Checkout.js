@@ -16,7 +16,7 @@ function Checkout() {
                     Your shopping Basket
                 </h2>
 
-                {/* BasketItem */}
+                {/* BasketItem */} 
                 {/* BasketItem */}
                 {/* BasketItem */}
                 {/* BasketItem */}
